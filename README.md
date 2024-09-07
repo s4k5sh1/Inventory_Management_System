@@ -2,7 +2,7 @@
 
 ## About
 
-This project is designed to help organize and track the profits made from my vintage clothes selling side business. I built this system to keep track of clothing inventory, purchase details, retail prices, and selling prices. It allows me to add, update, and delete items, while also managing profit calculations.
+This project is designed to help organise and track the profits made from my vintage clothes selling side business. I built this system to keep track of clothing inventory, purchase details, retail prices, and selling prices. It allows me to add, update, and delete items, while also managing profit calculations.
 
 As I continue adding new features, the system will be updated.
 
